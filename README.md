@@ -10,3 +10,9 @@ For a detailed explanation of our "Equity Investment Using Python: From Data Cra
 The project "Equity Investment Using Python: From Data Mining to Portfolio Strategy Formulation" by Chulwon Chae, as of April 13, 2024, explores the creation of a diversified stock portfolio through Python. This venture emphasizes the extraction and analysis of financial data from sources like Naver Finance, the Korean Exchange, and Yahoo Finance, integrating it into a MySQL database. Key financial metrics such as value, momentum, and quality are leveraged in a sophisticated multi-factor strategy to optimize stock selection and portfolio management. The approach includes rigorous financial analysis and technical analysis through TA-Lib, with a focus on maintaining balanced sector exposure through z-score computations and enhancing strategy evaluation via backtesting with Backtrader. Future project phases aim to expand market coverage, enhance risk control, and incorporate advanced analytical tools, reflecting a deep integration of technology and financial strategy to navigate volatile markets effectively.
 
 **Please note that not all codes developed during this proejct have been uploaded. Additionally, I plan to continuously update the project with new developments in the future.**
+
+
+![Description of image](PF_page-0001.jpg)
+![Description of image](PF_page-0002.jpg)
+![Description of image](PF_page-0003.jpg)
+![Description of image](PF_page-0004.jpg)
